@@ -73,7 +73,12 @@ To create a React project using Vite, follow these steps:
 
 ## Screenshots
 
-_Add screenshots or GIFs showcasing the app's features and design._
+### Home Page
+![Home Page](screenshots/1.png)
+
+### Category Page
+![Category Page](screenshots/2.png)
+
 
 ## API Key Setup
 
